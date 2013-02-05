@@ -32,7 +32,7 @@ packages:
   # - bio_utils
   # - phylogeny
   #- galaxy
-  - cloudman
+  #- cloudman
 libraries:
   # - haskell-libs
   # - perl-libs
