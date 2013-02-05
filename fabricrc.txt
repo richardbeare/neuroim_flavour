@@ -95,7 +95,7 @@ galaxy_install_dependencies = True
 
 # Specify a custom location to a YAML file containing a list of tools to
 # install as Galaxy dependencies
-galaxy_tools_conf = contrib/flavor/gvl/tools.yaml
+galaxy_tools_conf = contrib/flavor/neuroim/tools.yaml
 
 # Location where (some?!) Galaxy dependency tools should be installed
 galaxy_tools_dir = /mnt/galaxy/tools
@@ -114,7 +114,7 @@ galaxy_install_r_packages = True
 # -- Tool-specific configurations
 
 # A location of a custom nginx.conf or a comparable template, respectively.
-nginx_conf_template_path = contrib/flavor/gvl/nginx.conf.template
+nginx_conf_template_path = contrib/flavor/neuroim/nginx.conf.template
 #nginx_conf_path = path/to/custom/nginx.conf
 
 # Picard home
