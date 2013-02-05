@@ -4,11 +4,11 @@
 # files should go here. Comment out any groups you don't want to have
 # installed.
 packages:
-  - minimal
+  # - minimal
   # - desktop
   # - programming
   # - distributed
-  - amazon
+  #- amazon
   # - python
   # - r
   # - ruby
@@ -16,7 +16,7 @@ packages:
   # - java
   # # - erlang
   # # - haskell
-  - databases
+  #- databases
   # # - math
   # - viz
   # # - web
@@ -36,6 +36,6 @@ packages:
 libraries:
   # - haskell-libs
   # - perl-libs
-  # - python-libs
+   - python-libs
   # - r-libs
   # - ruby-libs
